@@ -1,4 +1,4 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/0a4gwio9c7ptjuhw?svg=true)](https://ci.appveyor.com/project/KateGaw/ra-hooks-context-use-json-fetch)
 
 -------------------------------------------------------------------------------
 
