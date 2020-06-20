@@ -12,6 +12,7 @@ const Fetch = (props) => {
       <p>URL: {props.url}</p>
       <p>DATA: {data}</p>
       <p>ERROR: {error}</p>
+      <p>LOADING: {loading ? "true" : "false"}</p>
     </div>
   );
 };
